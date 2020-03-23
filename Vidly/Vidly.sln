@@ -13,9 +13,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAPIwithAngular", "WebAPI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyAPI", "VidlyAPI\VidlyAPI.csproj", "{9539186A-0B03-4F87-B693-87D8D3647CF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyClassLibrary", "VidlyClassLibrary\VidlyClassLibrary.csproj", "{A6D7A332-A7D9-4925-9D47-81D0FCDC66D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VidlyClassLibrary", "VidlyClassLibrary\VidlyClassLibrary.csproj", "{A6D7A332-A7D9-4925-9D47-81D0FCDC66D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyDesktopApp", "VidlyDesktopApp\VidlyDesktopApp.csproj", "{26EFFB83-10FE-43A9-94AC-538CBDE87E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyAppWithNLayerArchitecture", "VidlyAppWithNLayerArchitecture\VidlyAppWithNLayerArchitecture.csproj", "{1C8E37FA-0EA9-45CF-BBBB-285B4EE6BE92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{A39D0549-E2CB-4DCF-889D-CDEEE50F8993}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DomainService", "DomainService", "{6CB94F4A-6C62-404D-B139-CAD456A9BA46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{BD59E370-1D4E-4875-BD39-CFEF3AFBABBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository And UOW", "Repository And UOW", "{BDD1C487-DE2F-4BE5-9A69-05FD8A9F956F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +57,10 @@ Global
 		{26EFFB83-10FE-43A9-94AC-538CBDE87E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26EFFB83-10FE-43A9-94AC-538CBDE87E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26EFFB83-10FE-43A9-94AC-538CBDE87E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8E37FA-0EA9-45CF-BBBB-285B4EE6BE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8E37FA-0EA9-45CF-BBBB-285B4EE6BE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8E37FA-0EA9-45CF-BBBB-285B4EE6BE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8E37FA-0EA9-45CF-BBBB-285B4EE6BE92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
