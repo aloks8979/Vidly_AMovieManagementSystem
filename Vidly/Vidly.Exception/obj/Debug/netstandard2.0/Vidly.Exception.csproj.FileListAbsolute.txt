@@ -1,0 +1,7 @@
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Exception\bin\Debug\netstandard2.0\Vidly.Exception.deps.json
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Exception\bin\Debug\netstandard2.0\Vidly.Exception.dll
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Exception\bin\Debug\netstandard2.0\Vidly.Exception.pdb
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Exception\obj\Debug\netstandard2.0\Vidly.Exception.AssemblyInfoInputs.cache
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Exception\obj\Debug\netstandard2.0\Vidly.Exception.AssemblyInfo.cs
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Exception\obj\Debug\netstandard2.0\Vidly.Exception.dll
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Exception\obj\Debug\netstandard2.0\Vidly.Exception.pdb

@@ -1,0 +1,8 @@
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Interface\bin\Debug\netstandard2.0\Vidly.Interface.deps.json
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Interface\bin\Debug\netstandard2.0\Vidly.Interface.dll
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Interface\bin\Debug\netstandard2.0\Vidly.Interface.pdb
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Interface\obj\Debug\netstandard2.0\Vidly.Interface.csprojAssemblyReference.cache
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Interface\obj\Debug\netstandard2.0\Vidly.Interface.AssemblyInfoInputs.cache
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Interface\obj\Debug\netstandard2.0\Vidly.Interface.AssemblyInfo.cs
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Interface\obj\Debug\netstandard2.0\Vidly.Interface.dll
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Interface\obj\Debug\netstandard2.0\Vidly.Interface.pdb

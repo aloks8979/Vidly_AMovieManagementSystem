@@ -1,0 +1,8 @@
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.DomainModel\bin\Debug\netstandard2.0\Vidly.DomainModel.deps.json
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.DomainModel\bin\Debug\netstandard2.0\Vidly.DomainModel.dll
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.DomainModel\bin\Debug\netstandard2.0\Vidly.DomainModel.pdb
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.DomainModel\obj\Debug\netstandard2.0\Vidly.DomainModel.csprojAssemblyReference.cache
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.DomainModel\obj\Debug\netstandard2.0\Vidly.DomainModel.AssemblyInfoInputs.cache
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.DomainModel\obj\Debug\netstandard2.0\Vidly.DomainModel.AssemblyInfo.cs
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.DomainModel\obj\Debug\netstandard2.0\Vidly.DomainModel.dll
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.DomainModel\obj\Debug\netstandard2.0\Vidly.DomainModel.pdb
