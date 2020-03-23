@@ -1,4 +1,23 @@
-﻿@model VidlyMVCApp.Models.Movie
+﻿@model VidlyMVCApp.ViewModel.RandomMovieViewModel
 
-<h1>Random page</h1>
-<h3>@Model.Name</h3>
+<h2>Movie Controller</h2>
+
+@{ 
+    var classname = Model.Customers.Count > 0 ? "popular" : null;
+}
+
+<h2 class="@classname">@Model.Movie.Name</h2>
+
+@if(@Model.Customers.Count == 0)
+{
+    <text>No one rented this movie before.</text>
+}
+else 
+{
+    <ul>
+        @foreach (var customer in Model.Customers)
+        {
+            <li>@customer.Name</li>
+        }
+    </ul> 
+}
