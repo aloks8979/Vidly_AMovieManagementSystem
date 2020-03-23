@@ -1,30 +1,28 @@
 ﻿@model VidlyMVCApp.ViewModel.RandomMovieViewModel
-
-<h2>Movie Controller</h2>
-
 @{
-    var classname = Model.Customers.Count > 0 ? "popular" : null;
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2 class="@classname">@Model.Movie.Name</h2>
+<h2>Customers</h2>
 
-@if (@Model.Customers.Count == 0)
+@if(@Model.Customers.Count < 1)
 {
-    <text>No one rented this movie before.</text>
+    <text>We don't have any customers yet.</text>
 }
 else
 {
     <table class="table table-bordered table-hover">
         <thead>
             <tr>
-                <th>Movies</th>
+                <th>Customer</th>
             </tr>
         </thead>
         <tbody>
             @foreach (var customer in Model.Customers)
             {
                 <tr>
-                    <td>@customer.Name</td>
+                    <td>@Html.ActionLink(customer.Name, "Details", "Customers", new { id = customer.Id }, null)</td>
                 </tr>
             }
         </tbody>

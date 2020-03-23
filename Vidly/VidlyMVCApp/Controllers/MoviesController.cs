@@ -15,13 +15,13 @@ namespace VidlyMVCApp.Controllers
         {
             var movie = new Movie()
             {
-                Name = "Shrek!"
+                Name = "Sholay"
             };
 
             var customers = new List<Customer>()
             {
-                new Customer{ Name = "Customer 1"},
-                new Customer{ Name = "Customer 2"}
+                new Customer{ Name = "Vicky"},
+                new Customer{ Name = "Tony"}
             };
 
             var viewModel = new RandomMovieViewModel()
