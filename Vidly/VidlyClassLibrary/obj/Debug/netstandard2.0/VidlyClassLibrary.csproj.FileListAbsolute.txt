@@ -1,0 +1,16 @@
+B:\VidlyApp\Vidly\VidlyClassLibrary\bin\Debug\netstandard2.0\VidlyClassLibrary.deps.json
+B:\VidlyApp\Vidly\VidlyClassLibrary\bin\Debug\netstandard2.0\VidlyClassLibrary.dll
+B:\VidlyApp\Vidly\VidlyClassLibrary\bin\Debug\netstandard2.0\VidlyClassLibrary.pdb
+B:\VidlyApp\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.csprojAssemblyReference.cache
+B:\VidlyApp\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.AssemblyInfoInputs.cache
+B:\VidlyApp\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.AssemblyInfo.cs
+B:\VidlyApp\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.dll
+B:\VidlyApp\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.pdb
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyClassLibrary\bin\Debug\netstandard2.0\VidlyClassLibrary.deps.json
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyClassLibrary\bin\Debug\netstandard2.0\VidlyClassLibrary.dll
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyClassLibrary\bin\Debug\netstandard2.0\VidlyClassLibrary.pdb
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.csprojAssemblyReference.cache
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.AssemblyInfoInputs.cache
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.AssemblyInfo.cs
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.dll
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyClassLibrary\obj\Debug\netstandard2.0\VidlyClassLibrary.pdb

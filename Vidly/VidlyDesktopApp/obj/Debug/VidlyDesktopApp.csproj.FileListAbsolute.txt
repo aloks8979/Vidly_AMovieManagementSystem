@@ -1,0 +1,12 @@
+B:\VidlyApp\Vidly\VidlyDesktopApp\bin\Debug\VidlyDesktopApp.exe.config
+B:\VidlyApp\Vidly\VidlyDesktopApp\bin\Debug\VidlyDesktopApp.exe
+B:\VidlyApp\Vidly\VidlyDesktopApp\bin\Debug\VidlyDesktopApp.pdb
+B:\VidlyApp\Vidly\VidlyDesktopApp\obj\Debug\VidlyDesktopApp.csprojAssemblyReference.cache
+B:\VidlyApp\Vidly\VidlyDesktopApp\obj\Debug\VidlyDesktopApp.exe
+B:\VidlyApp\Vidly\VidlyDesktopApp\obj\Debug\VidlyDesktopApp.pdb
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyDesktopApp\bin\Debug\VidlyDesktopApp.exe.config
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyDesktopApp\bin\Debug\VidlyDesktopApp.exe
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyDesktopApp\bin\Debug\VidlyDesktopApp.pdb
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyDesktopApp\obj\Debug\VidlyDesktopApp.csprojAssemblyReference.cache
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyDesktopApp\obj\Debug\VidlyDesktopApp.exe
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyDesktopApp\obj\Debug\VidlyDesktopApp.pdb

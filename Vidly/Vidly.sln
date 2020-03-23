@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyMVCApp", "VidlyMVCApp\VidlyMVCApp.csproj", "{A8594AF9-7CF5-4B4A-A697-20D30D6F7601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly.Tests", "Vidly.Tests\Vidly.Tests.csproj", "{F3B8B0C4-368D-4044-BADF-3A5A3EA7B822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyMVCWithJSApp", "VidlyMVCWithJSApp\VidlyMVCWithJSApp.csproj", "{2E0A2936-3405-423B-9C0A-5B8009F606B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebAPIwithAngular", "WebAPIwithAngular", "{5156D7F5-5923-47B5-BBC4-4A9AC352CCFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyAPI", "VidlyAPI\VidlyAPI.csproj", "{9539186A-0B03-4F87-B693-87D8D3647CF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyClassLibrary", "VidlyClassLibrary\VidlyClassLibrary.csproj", "{A6D7A332-A7D9-4925-9D47-81D0FCDC66D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VidlyDesktopApp", "VidlyDesktopApp\VidlyDesktopApp.csproj", "{26EFFB83-10FE-43A9-94AC-538CBDE87E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8594AF9-7CF5-4B4A-A697-20D30D6F7601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8594AF9-7CF5-4B4A-A697-20D30D6F7601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8594AF9-7CF5-4B4A-A697-20D30D6F7601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8594AF9-7CF5-4B4A-A697-20D30D6F7601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B8B0C4-368D-4044-BADF-3A5A3EA7B822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B8B0C4-368D-4044-BADF-3A5A3EA7B822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B8B0C4-368D-4044-BADF-3A5A3EA7B822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B8B0C4-368D-4044-BADF-3A5A3EA7B822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0A2936-3405-423B-9C0A-5B8009F606B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0A2936-3405-423B-9C0A-5B8009F606B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0A2936-3405-423B-9C0A-5B8009F606B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0A2936-3405-423B-9C0A-5B8009F606B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9539186A-0B03-4F87-B693-87D8D3647CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9539186A-0B03-4F87-B693-87D8D3647CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9539186A-0B03-4F87-B693-87D8D3647CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9539186A-0B03-4F87-B693-87D8D3647CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D7A332-A7D9-4925-9D47-81D0FCDC66D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D7A332-A7D9-4925-9D47-81D0FCDC66D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D7A332-A7D9-4925-9D47-81D0FCDC66D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D7A332-A7D9-4925-9D47-81D0FCDC66D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EFFB83-10FE-43A9-94AC-538CBDE87E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EFFB83-10FE-43A9-94AC-538CBDE87E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EFFB83-10FE-43A9-94AC-538CBDE87E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EFFB83-10FE-43A9-94AC-538CBDE87E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {399F948F-23D8-4634-B897-EE6FB5324745}
+	EndGlobalSection
+EndGlobal
