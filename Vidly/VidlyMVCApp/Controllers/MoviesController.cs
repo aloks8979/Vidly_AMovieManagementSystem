@@ -19,5 +19,15 @@ namespace VidlyMVCApp.Controllers
 
             return View(movies);
         }
+
+        //ByReleaseYear
+        [Route("movies/released/{year}/{month:regex(\\d{4}):range(1,12)}")]
+        public ActionResult ByReleaseYear(int year, int month)
+        {
+
+            return Content(year + "/" + month);
+        }
+
+        //ViewData and ViewBag example and than View Model
     }
 }
