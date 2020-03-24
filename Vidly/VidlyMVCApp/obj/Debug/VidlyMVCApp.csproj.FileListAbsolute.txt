@@ -226,3 +226,4 @@ B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCAp
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.pdb
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.Migrations.InitialMigration.resources
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.csproj.GenerateResource.cache
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.Migrations.NewMigration.resources
