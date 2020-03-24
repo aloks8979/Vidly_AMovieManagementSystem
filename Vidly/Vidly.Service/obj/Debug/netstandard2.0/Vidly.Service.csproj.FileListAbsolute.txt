@@ -1,7 +1,6 @@
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Service\bin\Debug\netstandard2.0\Vidly.Service.deps.json
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Service\bin\Debug\netstandard2.0\Vidly.Service.dll
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Service\bin\Debug\netstandard2.0\Vidly.Service.pdb
-B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Service\obj\Debug\netstandard2.0\Vidly.Service.csprojAssemblyReference.cache
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Service\obj\Debug\netstandard2.0\Vidly.Service.AssemblyInfoInputs.cache
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Service\obj\Debug\netstandard2.0\Vidly.Service.AssemblyInfo.cs
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\Vidly.Service\obj\Debug\netstandard2.0\Vidly.Service.dll
