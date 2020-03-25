@@ -42,6 +42,11 @@ namespace VidlyMVCApp.Controllers
             return View("CustomerDetail", customers);
         }
 
+        public ActionResult New()
+        {
+            return View();
+        }
+
         private IEnumerable<Customer> GetCustomers()
         {
             return new List<Customer>()
