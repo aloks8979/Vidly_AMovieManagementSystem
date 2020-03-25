@@ -220,6 +220,7 @@ B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCAp
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\bin\Microsoft.Owin.Security.OAuth.xml
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.csprojAssemblyReference.cache
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.Migrations.InitialMigration.resources
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.Migrations.NewMigration.resources
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.Migrations.AddMembershipType.resources
@@ -229,4 +230,3 @@ B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCAp
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.csproj.CopyComplete
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.dll
 B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.pdb
-B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Debug\VidlyMVCApp.csprojAssemblyReference.cache

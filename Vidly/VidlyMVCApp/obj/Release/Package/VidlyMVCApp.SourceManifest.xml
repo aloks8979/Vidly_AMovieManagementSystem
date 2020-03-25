@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Release\Package\PackageTmp" />
+  <setAcl path="B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="B:\GitFolder\Vidly_MovieManagement\Vidly_AMovieManagementSystem\Vidly\VidlyMVCApp\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
